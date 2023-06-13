@@ -1,2 +1,0 @@
-# QIDISmart3
-Update
