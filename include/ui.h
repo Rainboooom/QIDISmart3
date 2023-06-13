@@ -7,7 +7,7 @@
 
 #define TJC_PAGE_SHUTDOWN                   2
 
-#define                       3
+#define TJC_PAGE_POP_1                      3
 #define TJC_PAGE_POP_1_YES                  0x01
 #define TJC_PAGE_POP_1_NO                   0x00
 
